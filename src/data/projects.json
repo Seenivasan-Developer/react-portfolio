@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Gas Slot Booking App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to ease booking a gas slot by building an app.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://dapper-trifle-7f9a4b.netlify.app/",
+    "source": "https://github.com/Seenivasan-Developer/EazyGas-FrontEnd.git"
+  }
+]
